@@ -1,4 +1,4 @@
 fun main() {
 
-    Menu()
+    Menu().createMenu()
 }
